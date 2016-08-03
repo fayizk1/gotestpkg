@@ -1,5 +1,5 @@
 package gotestpkg
 
-func StringToByte(data string) []byte {
+func StringToBytes(data string) []byte {
 	return []byte(data)
 }
